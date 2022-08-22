@@ -1,5 +1,4 @@
-# My name is Sofi
+##### Hello everyone! 
 
-#  I like to program
-
-Helo World!  
+I'm Sofi
+ 

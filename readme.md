@@ -1,4 +1,5 @@
-##### Hello everyone! 
+##### Hello everyone🤘🏻
 
-I'm Sofi
- 
+Sofi here! 
+
+I started to learn programming a few months ago and I'm excited to see what this brings. 
